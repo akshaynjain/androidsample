@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="select_your_gender">Select Your Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="submit">Submit</string>
+    <string name="send_push">Send Push</string>
+</resources>
